@@ -1,6 +1,6 @@
 Here’s a GitHub-ready README for your Django project:
 
-```markdown
+
 # Django Signals Project
 
 This project demonstrates the use of Django signals for various purposes as part of an internship application. Each question has a unique implementation of Django signals located in separate folders (`question1`, `question2`, `question3`). 
@@ -100,5 +100,3 @@ Each question has a unique `signals.py` and `test_signal_sync.py` file located i
 
 - **Database**: This project uses an SQLite database for simplicity.
 - **Virtual Environment**: Remember to activate your virtual environment each time you work on the project.
-
-```
