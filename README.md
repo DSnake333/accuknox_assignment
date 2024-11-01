@@ -1,6 +1,3 @@
-Here’s a GitHub-ready README for your Django project:
-
-
 # Django Signals Project
 
 This project demonstrates the use of Django signals for various purposes as part of an internship application. Each question has a unique implementation of Django signals located in separate folders (`question1`, `question2`, `question3`). 
